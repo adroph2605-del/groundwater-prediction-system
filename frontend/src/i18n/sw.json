@@ -1,0 +1,51 @@
+{
+  "app": {
+    "name": "Mfumo wa Kubashiri Maji Ardhini",
+    "tagline": "Msaada wa AI kwa wachimba visima nchini Tanzania"
+  },
+  "nav": {
+    "home": "Nyumbani",
+    "predict": "Bashiri",
+    "history": "Historia",
+    "dashboard": "Dashibodi",
+    "admin": "Admin",
+    "login": "Ingia",
+    "register": "Jisajili",
+    "logout": "Toka",
+    "language": "Lugha"
+  },
+  "auth": {
+    "email": "Barua pepe",
+    "password": "Nenosiri",
+    "fullName": "Jina Kamili",
+    "loginTitle": "Ingia kwenye akaunti yako",
+    "registerTitle": "Tengeneza akaunti",
+    "noAccount": "Huna akaunti?",
+    "haveAccount": "Tayari una akaunti?"
+  },
+  "predict": {
+    "title": "Bashiri Maji Ardhini",
+    "subtitle": "Ingiza eneo au data ya kijiografia ili kutabiri uwepo wa maji",
+    "latitude": "Latitudo",
+    "longitude": "Longitudo",
+    "resistivity": "Ustahimilivu wa Umeme (Ωm)",
+    "rockType": "Aina ya Mwamba",
+    "elevation": "Urefu juu ya bahari (m)",
+    "rainfall": "Wastani wa Mvua kwa Mwaka (mm)",
+    "submit": "Bashiri Sasa",
+    "resultTitle": "Matokeo ya Ubashiri",
+    "waterPresence": "Uwezekano wa Kupata Maji",
+    "recommendedDepth": "Kina Kinachopendekezwa",
+    "expectedYield": "Kiasi cha Maji Kinachotarajiwa",
+    "qualityRisk": "Hatari ya Ubora wa Maji"
+  },
+  "common": {
+    "loading": "Inapakia...",
+    "error": "Kuna hitilafu",
+    "success": "Imefanikiwa",
+    "meters": "mita",
+    "save": "Hifadhi",
+    "cancel": "Ghairi",
+    "search": "Tafuta"
+  }
+}
