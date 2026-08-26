@@ -1,51 +1,33 @@
 {
   "app": {
     "name": "Groundwater Prediction System",
-    "tagline": "AI-powered support for well drillers in Tanzania"
+    "tagline": "Decision support for well drillers in Tanzania"
   },
   "nav": {
-    "home": "Home",
+    "dashboard": "Dashboard",
     "predict": "Predict",
     "history": "History",
-    "dashboard": "Dashboard",
-    "admin": "Admin",
+    "map": "Map",
+    "settings": "Settings",
     "login": "Login",
-    "register": "Register",
     "logout": "Logout",
     "language": "Language"
   },
-  "auth": {
-    "email": "Email",
-    "password": "Password",
-    "fullName": "Full Name",
-    "loginTitle": "Login to your account",
-    "registerTitle": "Create an account",
-    "noAccount": "Don't have an account?",
-    "haveAccount": "Already have an account?"
-  },
   "predict": {
-    "title": "Groundwater Prediction",
-    "subtitle": "Enter location or geophysical data to predict water availability",
+    "title": "New Prediction",
+    "subtitle": "Enter location or sensor data to estimate groundwater potential",
     "latitude": "Latitude",
     "longitude": "Longitude",
     "resistivity": "Apparent Resistivity (Ωm)",
     "rockType": "Rock / Formation Type",
     "elevation": "Elevation (m)",
-    "rainfall": "Average Annual Rainfall (mm)",
+    "rainfall": "Annual Rainfall (mm)",
     "submit": "Predict Now",
-    "resultTitle": "Prediction Results",
-    "waterPresence": "Water Presence Probability",
-    "recommendedDepth": "Recommended Drilling Depth",
-    "expectedYield": "Expected Yield",
-    "qualityRisk": "Water Quality Risk"
+    "reset": "Reset"
   },
   "common": {
     "loading": "Loading...",
-    "error": "Something went wrong",
-    "success": "Success",
-    "meters": "meters",
     "save": "Save",
-    "cancel": "Cancel",
-    "search": "Search"
+    "cancel": "Cancel"
   }
 }
