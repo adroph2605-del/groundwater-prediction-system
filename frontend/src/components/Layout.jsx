@@ -16,7 +16,6 @@ export default function Layout() {
       <div className="flex-1 flex flex-col overflow-hidden min-w-0">
         <header className="h-14 bg-white dark:bg-slate-900 border-b border-gray-200 dark:border-slate-800 flex items-center justify-between px-4 sm:px-6">
           <div className="flex items-center gap-3">
-            {/* Hamburger - simu/tablet tu */}
             <button
               onClick={() => setSidebarOpen(true)}
               className="lg:hidden p-2 rounded-lg border border-gray-200 dark:border-slate-700 text-gray-600 dark:text-slate-300"
@@ -67,4 +66,4 @@ export default function Layout() {
       </div>
     </div>
   );
-}cd 
+}
